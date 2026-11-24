@@ -1,4 +1,4 @@
-App de controle financeiro pessoal com dashboard, feito em Python e Streamlit.
+# App de controle financeiro pessoal com dashboard, feito em Python e Streamlit.
 
 > 🚧 Projeto em desenvolvimento.
 
